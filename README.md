@@ -4,13 +4,15 @@ Repository to save my solutions for AdventJS 2023
 
 ## My scores
 
-- Challenge 1 (easy): 250
-- Challenge 2 (easy): 260
-- Challenge 3 (easy): 240
-- Challenge 4 (medium): 230
-- Challenge 5 (medium): 160
-- Challenge 6 (easy): 290
-- Challenge 7 (easy): 240
-- Challenge 8 (medium): 250
-- Challenge 9 (easy): 360
-- Challenge 10 (easy): 280
+🟢 Easy - 🟠 Medium
+
+- 🟢 Challenge 1: 250
+- 🟢 Challenge 2: 260
+- 🟢 Challenge 3: 240
+- 🟠 Challenge 4: 230
+- 🟠 Challenge 5: 160
+- 🟢 Challenge 6: 290
+- 🟢 Challenge 7: 240
+- 🟠 Challenge 8: 250
+- 🟢 Challenge 9: 360
+- 🟢 Challenge 10: 280
