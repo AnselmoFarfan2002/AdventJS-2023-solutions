@@ -19,3 +19,5 @@ Repository to save my solutions for AdventJS 2023
 - 🟠 Challenge 11: 200
 - 🟠 Challenge 12: 230
 - 🟢 Challenge 13: 230
+- 🟠 Challenge 14: 260
+- 🟠 Challenge 15: 
